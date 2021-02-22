@@ -1,2 +1,5 @@
 # pagina_bootstrap
-Criando pagina Web Utilizando Boostrap
+
+Criação de pagina utilizando o framework Bootstrap.
+
+
